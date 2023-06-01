@@ -3,9 +3,7 @@ package in.ineuron.pptAssignment03;
 public class NextPermutation {
 
 	public static void main(String[] args) {
-
 		int[] nums = { 1, 2, 3 };
-		nextPermutation(nums);
 		System.out.println(NextPermutation.nextPermutation(nums));
 
 	}
