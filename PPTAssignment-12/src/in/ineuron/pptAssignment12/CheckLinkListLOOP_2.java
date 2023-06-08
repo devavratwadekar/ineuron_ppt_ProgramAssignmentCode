@@ -61,6 +61,6 @@ public class CheckLinkListLOOP_2 {
 		list.head.next.next.next = list.head.next;
 
 		boolean hasLoop = list.detectLoop();
-		System.out.println("Does the linked list have a loop? " + hasLoop);
+		System.out.println("Does the linked list have a loop? :: " + hasLoop);
 	}
 }
