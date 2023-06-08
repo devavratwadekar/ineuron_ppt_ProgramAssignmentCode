@@ -1,4 +1,4 @@
-package in.ineuron.pptAssignment112;
+package in.ineuron.pptAssignment12;
 
 class Node02 {
 	int data;
